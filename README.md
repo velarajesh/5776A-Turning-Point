@@ -11,27 +11,27 @@ This program needs to be uploaded to a VEX V5 Brain using PROS for v5
 Follow the directions described in https://pros.cs.purdue.edu/v5/getting-started/index.html to install and access the program
 
 
-### Driver Control Code
+## Driver Control Code
 
 
 
-### Autonmous
+## Autonmous
 
 
 
-## Adaptive Pure Pursuit
+### Adaptive Pure Pursuit
 
 
 
-## Odometery 
+### Odometery 
 
 
-## Path Following
+### Path Following
 
 
 
 ## Acknowledgments
 
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+* Siddarth Prabhakaran
+* Vinodh Nagarajan
+* Kenneth Moon
